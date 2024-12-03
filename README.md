@@ -1,0 +1,1 @@
+Codebase for my UNC PHYS332 Project featuring PDE Solvers to find stable and unstable Lorenz Systems. Basic attempts at Encryption and Decryption using the chaotic system yielded poor results but those sound files are still included here.
